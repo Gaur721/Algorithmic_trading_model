@@ -1,0 +1,2 @@
+# Algorithmic_trading_model
+Algorithmic_trading_model
